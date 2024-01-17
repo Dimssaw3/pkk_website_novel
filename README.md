@@ -2,3 +2,4 @@
 
 Cara Instal :
 - Download Xampp
+- Download VSCode
